@@ -15,3 +15,4 @@ I inspired I have been inspired by the colors of the Swiss flag and the color of
 
 ## Take a look
 #### Switzerland v4.0.1
+![Screenshot of Switzerland Theme.](/switzerland.png)
